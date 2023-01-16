@@ -1,0 +1,26 @@
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\bin\Debug\c_sharp_course_project.exe.config
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\bin\Debug\c_sharp_course_project.exe
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\bin\Debug\c_sharp_course_project.pdb
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c sharp course project.csprojAssemblyReference.cache
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c_sharp_course_project.Properties.Resources.resources
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c sharp course project.csproj.GenerateResource.cache
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c sharp course project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c_sharp_course_project.exe
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c_sharp_course_project.pdb
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c_sharp_course_project.MainMenu.resources
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c_sharp_course_project.resources.Game.resources
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c_sharp_course_project.Login.resources
+C:\Users\Asus\RiderProjects\c sharp course project\c sharp course project\obj\Debug\c_sharp_course_project.Records.resources
+C:\Users\User\VISUAL\c sharp course project\bin\Debug\c_sharp_course_project.exe.config
+C:\Users\User\VISUAL\c sharp course project\bin\Debug\c_sharp_course_project.exe
+C:\Users\User\VISUAL\c sharp course project\bin\Debug\c_sharp_course_project.pdb
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c sharp course project.csproj.AssemblyReference.cache
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c_sharp_course_project.Login.resources
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c_sharp_course_project.resources.Game.resources
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c_sharp_course_project.MainMenu.resources
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c_sharp_course_project.Properties.Resources.resources
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c_sharp_course_project.Records.resources
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c sharp course project.csproj.GenerateResource.cache
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c sharp course project.csproj.CoreCompileInputs.cache
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c_sharp_course_project.exe
+C:\Users\User\VISUAL\c sharp course project\obj\Debug\c_sharp_course_project.pdb
